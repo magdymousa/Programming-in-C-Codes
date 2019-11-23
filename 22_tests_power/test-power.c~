@@ -1,0 +1,39 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+
+unsigned power (unsigned x, unsigned y);
+
+int main(void){
+  
+  if(power(0,0) != 1){
+    printf("EXIT_FAIL1\n");
+    return EXIT_FAILURE;
+  }
+  else if(power(2,2) != 4){ 
+    printf("EXIT_FAIL2\n");
+    return EXIT_FAILURE;
+  }
+  else if(power(0,4) != 0){
+    printf("EXIT_FAIL3\n");
+    return EXIT_FAILURE;
+  }
+  else if(power(2,0) != 1){
+    printf("EXIT_FAIL4\n");
+    return EXIT_FAILURE;
+  }
+  else if(power(-1,1) !=(unsigned) -1){
+    printf("EXIT_FAIL5\n");
+    return EXIT_FAILURE;
+  }
+  else if(power(2,-128) != (unsigned long)pow(2,128)){
+    printf("EXIT_FAIL6\n");
+    return EXIT_FAILURE;
+  }
+  else{ 
+    printf("EXIT_SUCCESS\n");
+    return EXIT_SUCCESS;
+  }
+  return EXIT_SUCCESS;  
+}
+

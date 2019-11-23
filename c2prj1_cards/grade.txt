@@ -1,0 +1,233 @@
+Grading at Sun Sep  9 23:53:59 UTC 2018
+Compiling cards.c
+Testing card_from_letters
+value_let = 0, suit_let = c
+value = 10
+suit = 3
+val = 10, suit = 3
+value_let = 0, suit_let = d
+value = 10
+suit = 2
+val = 10, suit = 2
+value_let = 0, suit_let = h
+value = 10
+suit = 1
+val = 10, suit = 1
+value_let = 0, suit_let = s
+value = 10
+suit = 0
+val = 10, suit = 0
+value_let = 2, suit_let = c
+value = 2
+suit = 3
+val = 2, suit = 3
+value_let = 2, suit_let = d
+value = 2
+suit = 2
+val = 2, suit = 2
+value_let = 2, suit_let = h
+value = 2
+suit = 1
+val = 2, suit = 1
+value_let = 2, suit_let = s
+value = 2
+suit = 0
+val = 2, suit = 0
+value_let = 3, suit_let = c
+value = 3
+suit = 3
+val = 3, suit = 3
+value_let = 3, suit_let = d
+value = 3
+suit = 2
+val = 3, suit = 2
+value_let = 3, suit_let = h
+value = 3
+suit = 1
+val = 3, suit = 1
+value_let = 3, suit_let = s
+value = 3
+suit = 0
+val = 3, suit = 0
+value_let = 4, suit_let = c
+value = 4
+suit = 3
+val = 4, suit = 3
+value_let = 4, suit_let = d
+value = 4
+suit = 2
+val = 4, suit = 2
+value_let = 4, suit_let = h
+value = 4
+suit = 1
+val = 4, suit = 1
+value_let = 4, suit_let = s
+value = 4
+suit = 0
+val = 4, suit = 0
+value_let = 5, suit_let = c
+value = 5
+suit = 3
+val = 5, suit = 3
+value_let = 5, suit_let = d
+value = 5
+suit = 2
+val = 5, suit = 2
+value_let = 5, suit_let = h
+value = 5
+suit = 1
+val = 5, suit = 1
+value_let = 5, suit_let = s
+value = 5
+suit = 0
+val = 5, suit = 0
+value_let = 6, suit_let = c
+value = 6
+suit = 3
+val = 6, suit = 3
+value_let = 6, suit_let = d
+value = 6
+suit = 2
+val = 6, suit = 2
+value_let = 6, suit_let = h
+value = 6
+suit = 1
+val = 6, suit = 1
+value_let = 6, suit_let = s
+value = 6
+suit = 0
+val = 6, suit = 0
+value_let = 7, suit_let = c
+value = 7
+suit = 3
+val = 7, suit = 3
+value_let = 7, suit_let = d
+value = 7
+suit = 2
+val = 7, suit = 2
+value_let = 7, suit_let = h
+value = 7
+suit = 1
+val = 7, suit = 1
+value_let = 7, suit_let = s
+value = 7
+suit = 0
+val = 7, suit = 0
+value_let = 8, suit_let = c
+value = 8
+suit = 3
+val = 8, suit = 3
+value_let = 8, suit_let = d
+value = 8
+suit = 2
+val = 8, suit = 2
+value_let = 8, suit_let = h
+value = 8
+suit = 1
+val = 8, suit = 1
+value_let = 8, suit_let = s
+value = 8
+suit = 0
+val = 8, suit = 0
+value_let = 9, suit_let = c
+value = 9
+suit = 3
+val = 9, suit = 3
+value_let = 9, suit_let = d
+value = 9
+suit = 2
+val = 9, suit = 2
+value_let = 9, suit_let = h
+value = 9
+suit = 1
+val = 9, suit = 1
+value_let = 9, suit_let = s
+value = 9
+suit = 0
+val = 9, suit = 0
+value_let = A, suit_let = c
+value = 14
+suit = 3
+val = 14, suit = 3
+value_let = A, suit_let = d
+value = 14
+suit = 2
+val = 14, suit = 2
+value_let = A, suit_let = h
+value = 14
+suit = 1
+val = 14, suit = 1
+value_let = A, suit_let = s
+value = 14
+suit = 0
+val = 14, suit = 0
+value_let = J, suit_let = c
+value = 11
+suit = 3
+val = 11, suit = 3
+value_let = J, suit_let = d
+value = 11
+suit = 2
+val = 11, suit = 2
+value_let = J, suit_let = h
+value = 11
+suit = 1
+val = 11, suit = 1
+value_let = J, suit_let = s
+value = 11
+suit = 0
+val = 11, suit = 0
+value_let = K, suit_let = c
+value = 13
+suit = 3
+val = 13, suit = 3
+value_let = K, suit_let = d
+value = 13
+suit = 2
+val = 13, suit = 2
+value_let = K, suit_let = h
+value = 13
+suit = 1
+val = 13, suit = 1
+value_let = K, suit_let = s
+value = 13
+suit = 0
+val = 13, suit = 0
+value_let = Q, suit_let = c
+value = 12
+suit = 3
+val = 12, suit = 3
+value_let = Q, suit_let = d
+value = 12
+suit = 2
+val = 12, suit = 2
+value_let = Q, suit_let = h
+value = 12
+suit = 1
+val = 12, suit = 1
+value_let = Q, suit_let = s
+value = 12
+suit = 0
+val = 12, suit = 0
+Passed
+Testing value_letter and suit_letter
+Passed
+Testing print_card
+Passed
+Testing card_from_num
+Passed
+Testing ranking_to_string
+ranking_to_string(STRAIGHT_FLUSH) resulted in STRAIGHT_FLUSH  (Correct)
+ranking_to_string(FOUR_OF_A_KIND) resulted in FOUR_OF_A_KIND  (Correct)
+ranking_to_string(FULL_HOUSE) resulted in FULL_HOUSE  (Correct)
+ranking_to_string(FLUSH) resulted in FLUSH  (Correct)
+ranking_to_string(STRAIGHT) resulted in STRAIGHT  (Correct)
+ranking_to_string(THREE_OF_A_KIND) resulted in THREE_OF_A_KIND  (Correct)
+ranking_to_string(TWO_PAIR) resulted in TWO_PAIR  (Correct)
+ranking_to_string(PAIR) resulted in PAIR  (Correct)
+ranking_to_string(NOTHING) resulted in NOTHING  (Correct)
+Passed
+Testing assert_card_valid
+Passed
+
+Overall Grade: PASSED

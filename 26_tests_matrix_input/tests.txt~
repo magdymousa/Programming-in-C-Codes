@@ -1,0 +1,8 @@
+./a.out "in1.txt"
+./a.out "in2.txt"
+./a.out "in3.txt"
+./a.out "in4.txt"
+./a.out "in5.txt"
+./a.out "in6.txt"
+./a.out "in7.txt"
+./a.out "in8.txt"

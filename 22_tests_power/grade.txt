@@ -1,0 +1,77 @@
+Grading at Sat Aug 25 14:51:49 UTC 2018
+**Testing broken implementation 10 **
+-------------------------------------
+
+0d 
+EXIT_FAIL2
+
+**Testing broken implementation 11 **
+-------------------------------------
+
+0d 
+EXIT_FAIL5
+
+**Testing broken implementation 1 **
+-------------------------------------
+
+1d 
+EXIT_FAIL2
+
+**Testing broken implementation 2 **
+-------------------------------------
+
+0d 
+EXIT_FAIL3
+
+**Testing broken implementation 3 **
+-------------------------------------
+
+0d 
+EXIT_FAIL1
+
+**Testing broken implementation 4 **
+-------------------------------------
+
+0d 
+EXIT_FAIL5
+
+**Testing broken implementation 5 **
+-------------------------------------
+
+0d 
+EXIT_FAIL2
+
+**Testing broken implementation 6 **
+-------------------------------------
+
+0d 
+EXIT_FAIL3
+
+**Testing broken implementation 7 **
+-------------------------------------
+
+0d 
+EXIT_FAIL2
+
+**Testing broken implementation 8 **
+-------------------------------------
+
+0d 
+EXIT_FAIL6
+
+**Testing broken implementation 9 **
+-------------------------------------
+
+0d 
+EXIT_FAIL2
+
+**Testing correct implementation **
+-------------------------------------
+
+0d 
+EXIT_SUCCESS
+
+All tests were ok.
+
+
+Overall Grade: PASSED

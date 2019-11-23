@@ -1,0 +1,1 @@
+../22_tests_power/power.c

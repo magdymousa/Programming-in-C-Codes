@@ -1,0 +1,19 @@
+void swapp(char *ptr1,char *ptr2){
+  char temp;
+  temp = *ptr1;
+  *ptr1 = *ptr2;
+  *ptr2 = temp;
+}
+void rotate(char matrix[10][10]){
+  int i =0 , j = 0;
+  char temp = '\0';
+  int len = 10;
+  for(i = 0;i<len;i++){
+    for(j = 0;j<len;j++){
+      swapp(matrix[i][j],matrix[i][10]);
+      swapp(matrix[i][j],matrix[10][0]);
+      swapp(matrix[i][10],matrix[i][10]);
+    }
+  }
+
+}

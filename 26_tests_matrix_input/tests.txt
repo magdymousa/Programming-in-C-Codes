@@ -1,0 +1,54 @@
+.\rotateMatrix "in1.txt"
+
+"in1.txt"
+.\rotateMatrix.o "in1.txt"
+.\rotateMatrix "in2.txt"
+.\rotateMatrix "in3.txt"
+.\rotateMatrix "in4.txt"
+.\rotateMatrix "in5.txt"
+.\rotateMatrix "in6.txt"
+.\rotateMatrix "in7.txt"
+.\rotateMatrix "in8.txt"
+.\rotateMatrix "in91212.txt"
+
+in1.txt
+in2.txt
+in3.txt
+in4.txt
+in5.txt
+in6.txt
+in7.txt
+in8.txt
+in121221.txt
+
+.\rotateMatrix.o "in1.txt"
+.\rotateMatrix.o "in2.txt"
+.\rotateMatrix.o "in3.txt"
+.\rotateMatrix.o "in4.txt"
+.\rotateMatrix.o "in5.txt"
+.\rotateMatrix.o "in6.txt"
+.\rotateMatrix.o "in7.txt"
+.\rotateMatrix.o "in8.txt"
+.\rotateMatrix.o "in9.txt"
+.\rotateMatrix.o "in1342.txt"
+
+./rotateMatrix.o "in1.txt"
+./rotateMatrix.o "in2.txt"
+./rotateMatrix.o "in3.txt"
+./rotateMatrix.o "in4.txt"
+./rotateMatrix.o "in5.txt"
+./rotateMatrix.o "in6.txt"
+./rotateMatrix.o "in7.txt"
+./rotateMatrix.o "in8.txt"
+./rotateMatrix.o "in9.txt"
+./rotateMatrix.o "in1342.txt"
+
+./rotateMatrix "in1.txt"
+./rotateMatrix "in2.txt"
+./rotateMatrix "in3.txt"
+./rotateMatrix "in4.txt"
+./rotateMatrix "in5.txt"
+./rotateMatrix "in6.txt"
+./rotateMatrix "in7.txt"
+./rotateMatrix "in8.txt"
+./rotateMatrix "in91212.txt"
